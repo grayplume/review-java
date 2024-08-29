@@ -1,4 +1,4 @@
-package com.plume.frame;
+package com.plume.swing;
 
 import javax.swing.*;
 import java.awt.*;

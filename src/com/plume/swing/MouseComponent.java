@@ -1,7 +1,6 @@
-package com.plume.frame;
+package com.plume.swing;
 
 import javax.swing.*;
-import javax.swing.plaf.basic.BasicTreeUI;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
